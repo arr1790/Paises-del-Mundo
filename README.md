@@ -16,4 +16,3 @@ Esta es una API pública que proporciona información sobre países, incluidos d
 - **Endpoint**: `/api/countries`
 - **Método**: `GET`
 - **Descripción**: Devuelve una lista de todos los países en el mundo.
-- **Respuesta Ejemplo**:
